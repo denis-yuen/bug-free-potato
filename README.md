@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/denis-yuen/icy-blackberry.svg?branch=master)](https://travis-ci.org/denis-yuen/icy-blackberry)
+[![Build Status](https://travis-ci.org/denis-yuen/icy-blackberry.svg?branch=master)](https://travis-ci.org/denis-yuen/bug-free-potato)
 
 # icy-blackberry
-Example for the HCA Hackathon
+Example for the CFI presentation
 
 ## Usage
 
